@@ -41,8 +41,8 @@ I designed the interface to be **stakeholder-ready**, using modern design princi
 - **Visuals:** 3D-style cards and animated KPI counters.
 - **Top Insights:** Automated narrative explaining *where* the revenue leaks are.
 
-![Executive Overview](outputs/dashboard_tab1.png)
-*(Please capture a screenshot of Tab 1 and save as `outputs/dashboard_tab1.png`)*
+![Executive Overview](dashboard_tab1.png)
+
 
 ### **Tab 2: Segment Explorer (3D)**
 *For Marketing Teams*
@@ -50,9 +50,9 @@ I designed the interface to be **stakeholder-ready**, using modern design princi
 - **Interactive Filters:** Drill down by LTV, Churn Probability, or Segment.
 - **Actionable Lists:** One-click export of "High-Value At-Risk" customers for CRM campaigns.
 
-![Segment Explorer - Filters & 3D Chart](outputs/dashboard_tab2_3.png)
-![Segment Explorer - Sankey Journey](outputs/dashboard_tab2_2.png)
-![Segment Explorer - Customer Table](outputs/dashboard_tab2_1.png)
+![Segment Explorer - Filters & 3D Chart](dashboard_tab2_3.png)
+![Segment Explorer - Sankey Journey](dashboard_tab2_2.png)
+![Segment Explorer - Customer Table](dashboard_tab2_1.png)
 *(Deep dive into segment behavior, 3D RFM clusters, and customer churn paths)*
 
 ### **Tab 3: ROI Simulator**
@@ -61,8 +61,8 @@ I designed the interface to be **stakeholder-ready**, using modern design princi
 - **Sensitivity Analysis:** Checks outcomes under optimistic/pessimistic scenarios.
 - **Business Impact:** Shows exact Net Profit and ROI (e.g., **1,821% ROI** on Win-Back campaigns).
 
-![ROI Calculator](outputs/dashboard_tab3.png)
-*(Please capture a screenshot of Tab 3 and save as `outputs/dashboard_tab3.png`)*
+![ROI Calculator](dashboard_tab3.png)
+
 
 ---
 
@@ -132,3 +132,4 @@ This project produced more than just code. It delivered tangible business assets
 *Data Analyst & Solution Architect*
 
 *Built with Python, Streamlit, and Business Sense.*
+
