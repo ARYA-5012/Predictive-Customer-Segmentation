@@ -128,9 +128,10 @@ This project produced more than just code. It delivered tangible business assets
 
 ## 👨‍💻 Author
 
-**[Arya Yadav]**
+**Arya Yadav**
 *Data Analyst & Solution Architect*
 
 *Built with Python, Streamlit, and Business Sense.*
+
 
 
